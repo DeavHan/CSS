@@ -1,0 +1,55 @@
+@import"https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,400;0,500;1,400;1,500&family=IBM+Plex+Mono:wght@500&display=swap";
+html {
+    -webkit-text-size-adjust:100%;
+    font-feature-settings:normal;
+    font-family:IBM Plex Sans,sans-serif;
+    line-height:1.5;
+    -moz-tab-size:4;
+    -o-tab-size:4;
+    tab-size:4
+   }
+*{
+    padding: 0%;
+    margin: 0%;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+    font-family: IMB Plex Mono,sans-serif;
+}
+    nav{
+    background: #0a3748;
+    color: #0a3748;
+}
+.Enlace{
+    align-items: center;
+}
+#logo{
+    height: 80px;
+    padding-top: 20px;
+}
+.Enlaces {
+    float:right;
+    margin-right: 20px;
+    margin: 0px 5px;
+    color: white;
+    font-size: 20px;
+}
+nav li ul{
+    color: 244, 246, 247;
+}
+#main{
+    background-color: #0a3748;
+}
+#seccion{
+    color: black;
+    background: linear-gradient(to right, #5EE1FF, #89F9E2);
+}
+#seccion2{
+    background-color: #3498DB;
+}
+footer{
+    background-color: #0a3748;
+}
+#pie{
+color: #9ca3af;
+}
